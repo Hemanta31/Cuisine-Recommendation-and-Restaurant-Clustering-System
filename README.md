@@ -1,6 +1,6 @@
 # Cuisine-Recommendation-and-Restaurant-Clustering-System
 
-Overview
+✅Overview
 
 The Cuisine Recommendation and Restaurant Clustering System is a data analytics and machine learning project designed to analyze restaurant data and provide intelligent recommendations based on cuisine types, ratings, and other attributes. With the rapid growth of online food delivery platforms and restaurant listing services, users often face difficulty in choosing the best restaurants from thousands of available options. This project aims to simplify that process by using data-driven techniques to group similar restaurants and suggest relevant dining options to users.
 
@@ -11,7 +11,7 @@ By using clustering techniques such as K-Means, the system segments restaurants 
 The project demonstrates how machine learning and data analytics can be used to improve decision-making in the food and hospitality industry. It also highlights the importance of data preprocessing, feature selection, and visualization in extracting meaningful insights from large datasets.
 
 
-Features:-
+✅Features:-
 
 Data cleaning and preprocessing of restaurant datasets
 
@@ -23,7 +23,7 @@ Cuisine-based segmentation of restaurants
 
 
 
-Technologies Used:-
+✅Technologies Used:-
 
 
 Python
@@ -37,7 +37,7 @@ Matplotlib and Seaborn for data visualization
 Jupyter Notebook for development and experimentation
 
 
-Applications:-
+✅Applications:-
 
 This system can be applied in various real-world scenarios such as:
 
@@ -52,7 +52,7 @@ Market research for the hospitality industry
 Location-based restaurant discovery systems
 
 
-Future Improvements:-
+✅Future Improvements:-
 
 Future enhancements for the project may include:
 
